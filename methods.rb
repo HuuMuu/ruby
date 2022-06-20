@@ -1,0 +1,1 @@
+puts "WEBCAMPでプログラミンが学習".methods
